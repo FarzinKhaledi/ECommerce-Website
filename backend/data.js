@@ -1,0 +1,48 @@
+[
+  {
+    name: "Nike shirt",
+    slug: "Nike Shirt",
+    image: "/images/pic-1.webp",
+    price: 120,
+    countInStock: 10,
+    brand: "Nike",
+    rating: 4.5,
+    numReviews: 17,
+    description: "high quality shirt",
+  },
+  {
+    name: "Nike fit pant",
+    slug: "Fit Pant",
+    image: "/images/pic-2.webp",
+    price: 100,
+    countInStock: 3,
+    brand: "Nike",
+    rating: 4.8,
+    numReviews: 20,
+    description: "high quality fit pant",
+  },
+  {
+    name: "Boss slim shirt",
+    slug: "Boss Shirt",
+    image: "/images/pic-3.webp",
+    price: 150,
+    countInStock: 15,
+    brand: "Boss",
+    rating: 4.3,
+    numReviews: 30,
+    description: "high quality shirt",
+  },
+  {
+    name: "Adidas slim shirt",
+    slug: "Slim Shirt",
+    image: "/images/pic-4.jpeg",
+    price: 160,
+    countInStock: 7,
+    brand: "Adidas",
+    rating: 4.6,
+    numReviews: 45,
+    description: "high quality slim shirt",
+  },
+]
+
+ 

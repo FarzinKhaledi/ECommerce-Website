@@ -1,0 +1,9 @@
+header {
+  background-color: #404040;
+  padding: 1em;
+}
+header a {
+  color: #ffffff;
+  text-decoration: none;
+  font-weight: bold;
+}
